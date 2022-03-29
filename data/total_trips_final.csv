@@ -1,0 +1,253 @@
+,month,total_trips,city
+0,2018-04,200112,Chicago
+1,2018-05,401150,Chicago
+2,2018-06,458419,Chicago
+3,2018-07,544703,Chicago
+4,2018-08,530755,Chicago
+5,2018-09,438112,Chicago
+6,2018-10,344940,Chicago
+7,2018-11,168774,Chicago
+8,2018-12,128972,Chicago
+9,2019-01,103272,Chicago
+10,2019-02,96186,Chicago
+11,2019-03,165611,Chicago
+12,2019-04,265310,Chicago
+13,2019-05,367458,Chicago
+14,2019-06,475395,Chicago
+15,2019-07,557315,Chicago
+16,2019-08,590184,Chicago
+17,2019-09,493219,Chicago
+18,2019-10,371786,Chicago
+19,2019-11,177176,Chicago
+20,2019-12,155092,Chicago
+0,2018-04,98194,Boston
+1,2018-05,178865,Boston
+2,2018-06,205359,Boston
+3,2018-07,242916,Boston
+4,2018-08,236076,Boston
+5,2018-09,236182,Boston
+6,2018-10,200100,Boston
+7,2018-11,121419,Boston
+8,2018-12,81961,Boston
+9,2019-01,69872,Boston
+10,2019-02,80466,Boston
+11,2019-03,102369,Boston
+12,2019-04,166694,Boston
+13,2019-05,223084,Boston
+14,2019-06,274083,Boston
+15,2019-07,317028,Boston
+16,2019-08,337519,Boston
+17,2019-09,363185,Boston
+18,2019-10,305504,Boston
+19,2019-11,190759,Boston
+20,2019-12,92208,Boston
+0,2018-04,328907,Washington DC
+1,2018-05,374115,Washington DC
+2,2018-06,392338,Washington DC
+3,2018-07,404761,Washington DC
+4,2018-08,403866,Washington DC
+5,2018-09,325800,Washington DC
+6,2018-10,343021,Washington DC
+7,2018-11,202376,Washington DC
+8,2018-12,177534,Washington DC
+9,2019-01,150780,Washington DC
+10,2019-02,158130,Washington DC
+11,2019-03,253811,Washington DC
+12,2019-04,347992,Washington DC
+13,2019-05,337704,Washington DC
+14,2019-06,350144,Washington DC
+15,2019-07,356645,Washington DC
+16,2019-08,360044,Washington DC
+17,2019-09,360225,Washington DC
+18,2019-10,337552,Washington DC
+19,2019-11,223512,Washington DC
+20,2019-12,161878,Washington DC
+0,2018-04,51504,Philadelphia
+1,2018-05,72236,Philadelphia
+2,2018-06,77884,Philadelphia
+3,2018-07,81391,Philadelphia
+4,2018-08,79333,Philadelphia
+5,2018-09,67605,Philadelphia
+6,2018-10,68546,Philadelphia
+7,2018-11,42496,Philadelphia
+8,2018-12,31830,Philadelphia
+9,2019-01,30278,Philadelphia
+10,2019-02,27912,Philadelphia
+11,2019-03,38403,Philadelphia
+12,2019-04,58085,Philadelphia
+13,2019-05,67324,Philadelphia
+14,2019-06,80945,Philadelphia
+15,2019-07,84658,Philadelphia
+16,2019-08,94905,Philadelphia
+17,2019-09,95634,Philadelphia
+18,2019-10,78555,Philadelphia
+19,2019-11,53653,Philadelphia
+20,2019-12,33908,Philadelphia
+0,2018-04,2716,Columbus
+1,2018-05,6465,Columbus
+2,2018-06,6744,Columbus
+3,2018-07,6959,Columbus
+4,2018-08,5839,Columbus
+5,2018-09,3770,Columbus
+6,2018-10,2713,Columbus
+7,2018-11,1447,Columbus
+8,2018-12,1116,Columbus
+9,2019-01,860,Columbus
+10,2019-02,871,Columbus
+11,2019-03,1675,Columbus
+12,2019-04,3500,Columbus
+13,2019-05,5329,Columbus
+14,2019-06,5842,Columbus
+15,2019-07,4892,Columbus
+16,2019-08,4999,Columbus
+17,2019-09,3952,Columbus
+18,2019-10,2910,Columbus
+19,2019-11,1127,Columbus
+20,2019-12,932,Columbus
+0,2018-04,5071,Pittsburgh
+1,2018-05,10987,Pittsburgh
+2,2018-06,10915,Pittsburgh
+3,2018-07,13162,Pittsburgh
+4,2018-08,11603,Pittsburgh
+5,2018-09,8500,Pittsburgh
+6,2018-10,5758,Pittsburgh
+7,2018-11,2653,Pittsburgh
+8,2018-12,2037,Pittsburgh
+9,2019-01,1718,Pittsburgh
+10,2019-02,1903,Pittsburgh
+11,2019-03,3672,Pittsburgh
+12,2019-04,9639,Pittsburgh
+13,2019-05,14175,Pittsburgh
+14,2019-06,15034,Pittsburgh
+15,2019-07,15397,Pittsburgh
+16,2019-08,15417,Pittsburgh
+17,2019-09,15168,Pittsburgh
+18,2019-10,10847,Pittsburgh
+19,2019-11,5612,Pittsburgh
+20,2019-12,3396,Pittsburgh
+0,2018-04,22647,Portland
+1,2018-05,79399,Portland
+2,2018-06,48783,Portland
+3,2018-07,56967,Portland
+4,2018-08,46087,Portland
+5,2018-09,35308,Portland
+6,2018-10,27496,Portland
+7,2018-11,20164,Portland
+8,2018-12,14865,Portland
+9,2019-01,16690,Portland
+10,2019-02,11963,Portland
+11,2019-03,26328,Portland
+12,2019-04,28244,Portland
+13,2019-05,40903,Portland
+14,2019-06,39102,Portland
+15,2019-07,40680,Portland
+16,2019-08,39507,Portland
+17,2019-09,26722,Portland
+18,2019-10,23282,Portland
+19,2019-11,17679,Portland
+20,2019-12,12689,Portland
+0,2018-04,1307543,New York City
+1,2018-05,1824710,New York City
+2,2018-06,1953103,New York City
+3,2018-07,1913625,New York City
+4,2018-08,1977177,New York City
+5,2018-09,1877884,New York City
+6,2018-10,1878657,New York City
+7,2018-11,1260355,New York City
+8,2018-12,1016505,New York City
+9,2019-01,967287,New York City
+10,2019-02,943744,New York City
+11,2019-03,1327960,New York City
+12,2019-04,1766094,New York City
+13,2019-05,1924563,New York City
+14,2019-06,2125370,New York City
+15,2019-07,2181064,New York City
+16,2019-08,2344224,New York City
+17,2019-09,2444900,New York City
+18,2019-10,2092573,New York City
+19,2019-11,1478708,New York City
+20,2019-12,955210,New York City
+0,2017-04,268662,Chicago Previous
+1,2017-05,345988,Chicago Previous
+2,2017-06,505164,Chicago Previous
+3,2017-07,565142,Chicago Previous
+4,2017-08,557639,Chicago Previous
+5,2017-09,485489,Chicago Previous
+6,2017-10,354104,Chicago Previous
+7,2017-11,189739,Chicago Previous
+8,2017-12,125396,Chicago Previous
+9,2018-01,109706,Chicago Previous
+10,2018-02,102950,Chicago Previous
+11,2018-03,174489,Chicago Previous
+12,2018-04,200112,Chicago Previous
+13,2018-05,401150,Chicago Previous
+14,2018-06,458419,Chicago Previous
+15,2018-07,544703,Chicago Previous
+16,2018-08,530755,Chicago Previous
+17,2018-09,438112,Chicago Previous
+18,2018-10,344940,Chicago Previous
+19,2018-11,168774,Chicago Previous
+20,2018-12,128972,Chicago Previous
+0,2017-04,99860,Boston Previous
+1,2017-05,127894,Boston Previous
+2,2017-06,161910,Boston Previous
+3,2017-07,175833,Boston Previous
+4,2017-08,190651,Boston Previous
+5,2017-09,165386,Boston Previous
+6,2017-10,163662,Boston Previous
+7,2017-11,105463,Boston Previous
+8,2017-12,55072,Boston Previous
+9,2018-01,40932,Boston Previous
+10,2018-02,62817,Boston Previous
+11,2018-03,62985,Boston Previous
+12,2018-04,98194,Boston Previous
+13,2018-05,178865,Boston Previous
+14,2018-06,205359,Boston Previous
+15,2018-07,242916,Boston Previous
+16,2018-08,236076,Boston Previous
+17,2018-09,236182,Boston Previous
+18,2018-10,200100,Boston Previous
+19,2018-11,121419,Boston Previous
+20,2018-12,81961,Boston Previous
+0,2017-04,365990,Washington DC Previous
+1,2017-05,339677,Washington DC Previous
+2,2017-06,398751,Washington DC Previous
+3,2017-07,397680,Washington DC Previous
+4,2017-08,402534,Washington DC Previous
+5,2017-09,391371,Washington DC Previous
+6,2017-10,384833,Washington DC Previous
+7,2017-11,252534,Washington DC Previous
+8,2017-12,177897,Washington DC Previous
+9,2018-01,168590,Washington DC Previous
+10,2018-02,182378,Washington DC Previous
+11,2018-03,238998,Washington DC Previous
+12,2018-04,328907,Washington DC Previous
+13,2018-05,374115,Washington DC Previous
+14,2018-06,392338,Washington DC Previous
+15,2018-07,404761,Washington DC Previous
+16,2018-08,403866,Washington DC Previous
+17,2018-09,325800,Washington DC Previous
+18,2018-10,343021,Washington DC Previous
+19,2018-11,202376,Washington DC Previous
+20,2018-12,177534,Washington DC Previous
+0,2017-04,1315404,New York City Previous
+1,2017-05,1523268,New York City Previous
+2,2017-06,1731594,New York City Previous
+3,2017-07,1735599,New York City Previous
+4,2017-08,1816498,New York City Previous
+5,2017-09,1878098,New York City Previous
+6,2017-10,1897592,New York City Previous
+7,2017-11,1330649,New York City Previous
+8,2017-12,889967,New York City Previous
+9,2018-01,718994,New York City Previous
+10,2018-02,843114,New York City Previous
+11,2018-03,976672,New York City Previous
+12,2018-04,1307543,New York City Previous
+13,2018-05,1824710,New York City Previous
+14,2018-06,1953103,New York City Previous
+15,2018-07,1913625,New York City Previous
+16,2018-08,1977177,New York City Previous
+17,2018-09,1877884,New York City Previous
+18,2018-10,1878657,New York City Previous
+19,2018-11,1260355,New York City Previous
+20,2018-12,1016505,New York City Previous
